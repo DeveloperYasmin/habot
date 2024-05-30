@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Habot/static/css/main.5b20f09b.css",
-    "main.js": "/Habot/static/js/main.1989158d.js",
-    "static/media/background.jpg": "/Habot/static/media/background.14a34750fd94498f3c78.jpg",
-    "static/media/media.png": "/Habot/static/media/media.76aae5d3e8390c96ac05.png",
-    "static/media/logo.png": "/Habot/static/media/logo.3f204ea4e77b08b1fb69.png",
-    "static/media/6.png": "/Habot/static/media/6.730efe2043a96603ee65.png",
-    "static/media/3.png": "/Habot/static/media/3.e60c52b1b25bc8362699.png",
-    "static/media/2.png": "/Habot/static/media/2.dfcaf6ea7437ac616e67.png",
-    "static/media/1.png": "/Habot/static/media/1.2e9971edb09b7af501d4.png",
-    "static/media/4.png": "/Habot/static/media/4.93ae75a112cec4ecdeda.png",
-    "static/media/5.png": "/Habot/static/media/5.60c8218dc02231196c8e.png",
-    "index.html": "/Habot/index.html",
-    "main.5b20f09b.css.map": "/Habot/static/css/main.5b20f09b.css.map",
-    "main.1989158d.js.map": "/Habot/static/js/main.1989158d.js.map"
+    "main.css": "/habot/static/css/main.5b20f09b.css",
+    "main.js": "/habot/static/js/main.68840caa.js",
+    "static/media/background.jpg": "/habot/static/media/background.14a34750fd94498f3c78.jpg",
+    "static/media/media.png": "/habot/static/media/media.76aae5d3e8390c96ac05.png",
+    "static/media/logo.png": "/habot/static/media/logo.3f204ea4e77b08b1fb69.png",
+    "static/media/6.png": "/habot/static/media/6.730efe2043a96603ee65.png",
+    "static/media/3.png": "/habot/static/media/3.e60c52b1b25bc8362699.png",
+    "static/media/2.png": "/habot/static/media/2.dfcaf6ea7437ac616e67.png",
+    "static/media/1.png": "/habot/static/media/1.2e9971edb09b7af501d4.png",
+    "static/media/4.png": "/habot/static/media/4.93ae75a112cec4ecdeda.png",
+    "static/media/5.png": "/habot/static/media/5.60c8218dc02231196c8e.png",
+    "index.html": "/habot/index.html",
+    "main.5b20f09b.css.map": "/habot/static/css/main.5b20f09b.css.map",
+    "main.68840caa.js.map": "/habot/static/js/main.68840caa.js.map"
   },
   "entrypoints": [
     "static/css/main.5b20f09b.css",
-    "static/js/main.1989158d.js"
+    "static/js/main.68840caa.js"
   ]
 }
